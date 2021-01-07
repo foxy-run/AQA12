@@ -26,4 +26,3 @@ class MobileBankApiTestV5 {
         ;
     }
 }
-© 2021 GitHub, Inc.
